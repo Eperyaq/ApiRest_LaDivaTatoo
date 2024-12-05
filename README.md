@@ -1,7 +1,9 @@
-# **1.- Idea de proyecto: API REST para un estudio de tatuajes**
+# **1.- API REST La Diva Tattoo**
 
 He elegido este tema enfocado hacia mi trabajo de fin de grado y es una api rest la cual permitirá gestionar un estudio de tatuajes, proporcionando funcionalidades para manejar usuarios, artistas, citas.
 La API facilitará la conexión entre clientes y artistas, permitiendo la administración eficiente de citas y recursos del estudio.
+
+He pensado en este proyecto ya que me viene bien tener algo planeado para mi tfg y aun asi he visto que es un buen programa aparte de para practicar para aprender mejor SpringBoot y reforzar conocimientos.
 
 ---
 # **2.- Tablas que a usar**
